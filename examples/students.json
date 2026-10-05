@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aarav",
+    "age": 21,
+    "cgpa": 8.9,
+    "department": "CSE"
+  },
+  {
+    "name": "Diya",
+    "age": 19,
+    "cgpa": 9.4,
+    "department": "ECE"
+  },
+  {
+    "name": "Rohan",
+    "age": 22,
+    "cgpa": 8.5,
+    "department": "CSE"
+  },
+  {
+    "name": "Meera",
+    "age": 20,
+    "cgpa": 9.1,
+    "department": "IT"
+  },
+  {
+    "name": "Kabir",
+    "age": 23,
+    "cgpa": 7.9,
+    "department": "CSE"
+  },
+  {
+    "name": "Anaya",
+    "age": 21,
+    "cgpa": 8.7,
+    "department": "AIML"
+  }
+]
